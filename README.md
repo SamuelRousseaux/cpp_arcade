@@ -41,3 +41,6 @@ Or use the -h for some informations.
 ## changelog
 * 01/05/19 : added files
 
+## contributors
+* william.tessari@epitech.eu
+* alexandre1.tahery@epitech.eu
